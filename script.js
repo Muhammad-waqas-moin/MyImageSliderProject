@@ -1,4 +1,3 @@
-'use strick';
 let imgesArray = ['img1.gif', 'img2.gif', 'img3.gif', 'img4.gif', 'img5.gif'];
 
 let image_counter = 0;
